@@ -1,5 +1,6 @@
 # app.py
 # This is my first github-action 
+# python code
 def add(a, b):
     return a + b
 
