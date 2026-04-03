@@ -1,5 +1,5 @@
 # app.py
-# This is my first github-action job
+# This is my first github-action pipeline
 def add(a, b):
     return a + b
 
